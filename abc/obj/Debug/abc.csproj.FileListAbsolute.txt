@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\bin\Debug\abc.exe.config
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\bin\Debug\abc.exe
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\bin\Debug\abc.pdb
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\obj\Debug\abc.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\obj\Debug\abc.exe
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\abc\abc\obj\Debug\abc.pdb
